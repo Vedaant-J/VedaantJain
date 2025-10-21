@@ -79,15 +79,15 @@ HumorDB is a diverse, controlled dataset designed for rigorous evaluation.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="example_magic_carpet.png" alt="Optical illusion of a magic carpet">
-        <p color="red"><i>GPT-4o: "...the optical illusion created by the shadow...makes it appear as though someone is flying on a magic carpet."</i></p>
+        <p style="color: red;"><i>GPT-4o: "...the optical illusion created by the shadow...makes it appear as though someone is flying on a magic carpet."</i></p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="example_dog_sunglasses.png" alt="Dog with sunglasses drinking from a coconut">
-        <p color="green"><i>Gemini-Flash: "...the dog is wearing sunglasses and enjoying a coconut drink."</i></p>
+        <p style="color: green;"><i>Gemini-Flash: "...the dog is wearing sunglasses and enjoying a coconut drink."</i></p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="example_person_sharpner.png" alt="Forced perspective of snowboarder on the moon">
-        <p color="red"><i>Llava: "...depicts a cartoon of a person inside a box, seemingly being ”pulled out” by a hand using a toothpick. ..."</i> </p>
+        <p style="color: red;"><i>Llava: "...depicts a cartoon of a person inside a box, seemingly being ”pulled out” by a hand using a toothpick. ..."</i> </p>
     </div>
 </div>
 
